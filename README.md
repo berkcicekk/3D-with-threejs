@@ -1,8 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 3D-website-with-threejs
 
-Currently, two official plugins are available:
+A 3D website built with **React.js**, **Three.js**, **React Three Fiber**, **React Three Drei**, **EmailJS**, **Vite**, and **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## Quick Start
+
+### Prerequisites
+- **Git**
+- **Node.js**
+- **npm** (Node Package Manager)
+
+
+
+## Cloning the Repository
+
+git clone : 
+
+```bash
+   https://github.com/your-username/3D-website-with-threejs.git
+```
+```bash
+  npm install
+```
+
+```bash
+    REACT_APP_EMAILJS_USERID=your_emailjs_user_id
+        REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
+            REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
+```
+
+```bash
+   npm run dev
+``` 
+
+
+Open http://localhost:5173 in your browser to view the project.
