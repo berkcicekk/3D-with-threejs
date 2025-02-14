@@ -25,6 +25,7 @@ const Hero = () => {
         </div>
       </div>
 
+      {/* Sadece buradaki ComputersCanvas kalmalı */}
       <ComputersCanvas />
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
@@ -46,7 +47,6 @@ const Hero = () => {
         </a>
 
       </div>
-      <ComputersCanvas /> 
     </section>
   );
 };
