@@ -5,6 +5,10 @@ A 3D website built with **React.js**, **Three.js**, **React Three Fiber**, **Rea
 
 ---
 
+![Ekran görüntüsü 2025-02-16 182336](https://github.com/user-attachments/assets/b687b83e-7f33-41fe-8eff-089701f441b1)
+
+
+
 ## Quick Start
 
 ### Prerequisites
