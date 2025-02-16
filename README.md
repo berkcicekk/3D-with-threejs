@@ -43,5 +43,4 @@ git clone :
 Open http://localhost:5173 in your browser to view the project.
 
 
-![Logo](![my-notion-face-transparent](https://github.com/user-attachments/assets/e646af80-549b-4b8f-8362-b8513b1d1743)
-)
+(![my-notion-face-transparent](https://github.com/user-attachments/assets/e646af80-549b-4b8f-8362-b8513b1d1743)
